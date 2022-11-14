@@ -29,5 +29,4 @@ THEN I exit the application, and the HTML is generated
 
 
 * A walkthrough video that demonstrates the functionality of the Team Profile Generator and passing tests included:
-  Link: https://drive.google.com/file/d/1VHn2m9RRhyHkwVLTWwsqsH-kw7qQfjmx/view
- 
+  Link: https://drive.google.com/file/d/1mSig5Xg7kO_5ChCyZGXEjJPR8wgrmHQw/view?usp=share_link
