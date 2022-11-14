@@ -24,6 +24,8 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
+<img width="792" alt="Screen Shot 2022-11-14 at 4 31 26 PM" src="https://user-images.githubusercontent.com/108437457/201769919-16f1941a-8be9-4003-85a6-92568702c91e.png">
+
 
 
 * A walkthrough video that demonstrates the functionality of the Team Profile Generator and passing tests included:
