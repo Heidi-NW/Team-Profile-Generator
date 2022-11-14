@@ -111,7 +111,7 @@ const createTeam = async () => {
                     } 
                     else {
                         console.log("Finish building team");
-                        // teamBuilder(data);                   
+                        teamBuilder(data);
                     }
                 });
         } catch (err) {
@@ -126,7 +126,7 @@ const createTeam = async () => {
 createTeam();
 
 function teamBuilder(data) {
-    console.log(data);
+    console.log(myTeam);
     fs.writeFileSync(outputPath, generateTeam(myTeam), "UTF-8");
 }
 
